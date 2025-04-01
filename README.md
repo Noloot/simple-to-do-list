@@ -1,4 +1,4 @@
-Features
+Features:
     1. Adds tasks: Users can add tasks to a list.
     2. View Tasks: Displays a list of all added tasks.
     3. Delete Tasks: Removes a task by selecting its number.
